@@ -1,0 +1,26 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+
+.logotype {
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+}
+
+
+.hr-1 {
+    opacity: 100%;
+    background-color: black;
+    border: 0.5px solid black;
+}
+
+p {
+    font-size: 20px;
+    padding-bottom: 1rem;
+}
+
+#contact {
+    padding-top: 8rem;
+    padding-bottom: 10rem;
+}
